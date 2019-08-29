@@ -1,3 +1,22 @@
-#nav {
-    background-color: #999;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+// 導覽列區塊
+#nav {
+    background-color: #333;
+    display: grid;
+    grid-template-columns: 30% 80%;
+    color: gold;
+}
+
+#nav a {
+    text-decoration: none;
+    color: white;
+  
+  #nav a {
+    text-decoration: none;
+    color: white;
+  }
